@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.header-background-color{
+    background-color: #264653;
+}
+
+.text-custom-color{
+    color: 
+    #E76F51
+    ;
+    background-color: ;
+}
+
+.grayscale{
+    filter: grayscale(100%);
+}
