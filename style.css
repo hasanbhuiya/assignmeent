@@ -1,6 +1,4 @@
-body{
-    margin: 0;
-    padding: 0;
+
 }
 .Poppins h1{
     font-family: 'Poppins', sans-serif;
@@ -16,7 +14,13 @@ body{
     border: none;
     
 }
-
+.input-btn{
+    color: white;
+    background-color:  #E76F51;
+    padding: 9px 25px;
+    border-radius: 5px;
+    border: none;
+}
 .text-custom-color{
     color: 
     #E76F51
